@@ -1,5 +1,5 @@
 # VR Interaction Portfolio – Christine Ingaldson | Flutter VR Design
-Summary of immersive Unity VR projects focused on interaction design, AI companions, narrative systems, and ethical tech.
+Summary of immersive Unity VR projects focused on interaction design, AI behavior, narrative systems, and ethical tech.
 
 🎥 **Watch My VR Storytelling & Interaction Reel** https://www.youtube.com/watch?v=Rid5Fr1BmNw.
 
