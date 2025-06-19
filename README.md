@@ -56,7 +56,7 @@ Unity-based movement system built for alien character and robot enemies (unpubli
 - AI-driven companion behaviors using Unity State Machines, NavMesh, and LLM APIs
 - Immersive cybersecurity puzzles in narrative VR settings
 - Emotional design systems using sound, animation, hand-tracking, and gaze-based cues to foster player connection and empathy
-- Environmental storytelling systems in development for *The Dream Lodge*, including interactive books and dynamic weather-based scene changes
+- Environmental storytelling systems in development for *The Dream Lodge*, including interactive books and a weather system that dynamically blends skyboxes, visuals, and ambient sounds to set the mood.
 
 ---
 
