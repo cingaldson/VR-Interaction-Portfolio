@@ -20,7 +20,7 @@ Narrative WebXR experience with a VR focus in the VIVERSE metaverse.
 
 ## 🌙 Shadow Mend (Private – Solo Project)
 
-Narrative VR story experience released on *SideQuest*. Built using Unity + XR Interaction Toolkit.
+VR story game released on *SideQuest*. Built using Unity + XR Interaction Toolkit.
 
 - Collision-triggered game state systems driving story progression
 - Created a custom dialogue system using ScriptableObjects for flexible, data-driven narrative control  
