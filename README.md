@@ -13,6 +13,7 @@ Narrative WebXR experience with a VR focus in the VIVERSE metaverse.
 
 - Developed fish boid flocking behavior using Unity’s scripting and math algorithms
 - Scripted and animated mermaid character to follow a smooth, math-driven pathway through the environment
+- Tailored existing water effects to enhance the immersive atmosphere of the underwater environment
 - Created naturalistic movement patterns enhancing immersion and storytelling
 
 ---
