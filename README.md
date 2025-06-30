@@ -11,7 +11,7 @@ Welcome! I’m a Unity developer and VR interaction designer creating emotionall
 
 A VR story anthology in development for Meta Quest 3. Built in Unity, *The Dream Lodge* explores emotionally resonant interaction design through the following systems:
 
-- Adaptive Mood System: Boombox companion responds to player behavior with mood-based music, animation, and visuals. Supports Auto/Manual modes
+- Adaptive Mood System: Rule-based boombox companion responds to player behavior with mood-based music, animation, and visuals. Supports Auto/Manual modes
 - Interactive Book Menu: Realistic book object used as a tactile interface for story selection, designed as a calming narrative ritual
 - Emotional Design: Integrates hand-tracking, gaze, and ambient audio to deepen connection and presence
 - Environmental Storytelling: Weather-changing system blends visuals and sound to reflect emotional tone and pacing
