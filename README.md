@@ -7,6 +7,17 @@ Welcome! I’m a Unity developer and VR interaction designer creating emotionall
 
 ---
 
+## 📖 The Dream Lodge (Private - Solo Project, Work in Progress)
+
+A VR story anthology in development for Meta Quest 3. Built entirely in Unity, *The Dream Lodge* explores emotionally resonant interaction design through the following systems:
+
+-Adaptive Mood System: A boombox companion uses a rule-based system to infer emotional context from player behavior (movement, interactions, environmental choices) and responds with matching music, animations, and visual cues. Includes Auto/Manual modes and real-time feedback loops.
+- Interactive Book Menu: A realistic, immersive interface that lets players calmly choose which story to experience next, grounding them before each narrative journey.
+- Emotional Design & Feedback: Integrates hand-tracking, ambient audio, and gaze-based interactions to foster a sense of presence, connection, and introspection.
+- Environmental Storytelling Tools: Includes a weather-changing system that dynamically blends skyboxes, particle effects, and ambient sounds to help set the mood and support emotional pacing.
+
+---
+
 ## 🐟 Mermaid Song (VIVERSE World, Private)
 
 Narrative WebXR experience with a VR focus in the VIVERSE metaverse.
@@ -48,15 +59,6 @@ Unity-based movement system built for alien character and robot enemies (unpubli
 
 - Learned and implemented Unity NavMesh to enable basic AI behavior, allowing an alien NPC to pathfind and follow characters
 - Implemented state-based logic for the alien to trigger a kick animation when in proximity to robot enemies
-
----
-
-## 🧠 Currently Exploring
-
-- AI-driven companion behaviors using Unity State Machines, NavMesh, and LLM APIs
-- Immersive cybersecurity puzzles in narrative VR settings
-- Emotional design systems using sound, animation, hand-tracking, and gaze-based cues to foster player connection and empathy
-- Environmental storytelling systems in development for *The Dream Lodge*, including interactive books and a weather system that dynamically blends skyboxes, visuals, and ambient sounds to set the mood.
 
 ---
 
